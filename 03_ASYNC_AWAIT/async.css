@@ -321,3 +321,13 @@ body.dark-mode #sun-icon {
 body:not(.dark-mode) #sun-icon {
     display: inline;
 }
+
+footer{
+    /* border: 2px solid red; */
+    margin-top: 2.1rem;
+    padding: 0.2rem;
+    font-size: 1.2rem;
+}
+footer>p{
+    margin: 0.3rem;
+}
